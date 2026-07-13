@@ -134,13 +134,11 @@ This project helped me learn:
 * Schedule automatic execution using cron
 * Export results to a log file
 
-## 🔗 Project URL
-
-**GitHub Repository:**  
-https://github.com/Adchuthan/Server_Health_Checker
 
 ## 👨‍💻 Author
 
 **Adchuthan J.R.**
 
 This project is part of my DevOps learning journey and focuses on building practical Linux monitoring and automation skills.
+
+[Project Link](https://roadmap.sh/projects/server-stats/)
